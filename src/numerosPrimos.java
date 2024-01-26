@@ -1,6 +1,11 @@
 public class numerosPrimos {
     public static void main(String[] args) {
 
+        /*
+         * Escribe un programa que se encargue de comprobar si un número es o no primo.
+         * Hecho esto, imprime los números primos entre 1 y 100.
+         */
+
         //Numeros primos
         //Son aquellos que tienen 2 divisores, 1 y su mismo numero
 
